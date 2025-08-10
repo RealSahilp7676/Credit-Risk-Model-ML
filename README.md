@@ -73,6 +73,3 @@ Each dataset contains 50,000 records, which are merged on `cust_id` for analysis
 - Perform hyperparameter tuning to optimize the logistic regression model.
 - Add cross-validation to ensure robust model evaluation.
 - Include additional feature engineering to capture more complex patterns.
-
-## License
-This project is licensed under the MIT License.
